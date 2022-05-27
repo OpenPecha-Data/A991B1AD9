@@ -1,0 +1,23 @@
+segment_sources:
+  I8387FC23:
+    type: origin_type
+    relation: translation
+    language: sa
+  I2F41F8F9:
+    type: origin_type
+    relation: translation
+    language: bo
+  I4FD76FF4:
+    type: origin_type
+    relation: translation
+    language: zh
+  I1325925C:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  5ad81d9a451045278b19c90def49b26f:
+    I8387FC23: 8f32164de75945669dd603a5c0bb8160
+    I2F41F8F9: 6ea7cbb0331841d08ee206ac255c87e7
+    I4FD76FF4: ec825a3ce7b0458f80b1890ed4214aec
+    I1325925C: 2370bdd27c514a9aa02b92abe04d0ccb
